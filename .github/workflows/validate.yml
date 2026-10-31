@@ -1,0 +1,31 @@
+# Checks your posts every time you add or change them. A red ❌ on the commit
+# (and an email from GitHub) means something needs fixing — open the run to see what.
+name: Validate posts
+
+on:
+  push:
+    paths: ["content/**", "config.yaml", "bot/**", "tests/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt pytest
+      - name: Check posts and config
+        env:
+          BOT_SECRETS_JSON: ${{ toJSON(secrets) }}
+        run: python -m bot validate
+      - name: Show upcoming schedule
+        run: python -m bot plan --days 21
+      - name: Unit tests
+        run: python -m pytest -q

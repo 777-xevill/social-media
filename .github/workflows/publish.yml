@@ -1,0 +1,51 @@
+# Runs every 15 minutes on GitHub's servers and posts whatever is due.
+# Your computer can be off — this is what keeps everything going.
+name: Publish
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"   # off the hour: GitHub delays jobs at :00
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only show what would be posted"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # save state/ (what was posted)
+  issues: write     # email you about failures
+  actions: write    # keep scheduled workflows enabled
+
+concurrency:
+  group: social-autopilot
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Post due content
+        env:
+          BOT_SECRETS_JSON: ${{ toJSON(secrets) }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m bot run ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Save state
+        if: always() && !inputs.dry_run
+        run: |
+          git config user.name "social-autopilot[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: publishing state [skip ci]"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1
