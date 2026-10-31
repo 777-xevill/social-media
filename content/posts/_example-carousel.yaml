@@ -1,0 +1,11 @@
+# EXAMPLE — image carousel written as YAML instead of Markdown.
+# Instagram needs .jpg images. Up to 10 images.
+platforms: [instagram, facebook, linkedin, threads, pinterest, x]
+media: [slide-1.jpg, slide-2.jpg, slide-3.jpg]
+title: The 5-minute weekly review
+alt: Three slides showing a simple weekly review checklist
+hashtags: [productivity, planning, founders]
+evergreen: true
+text: |
+  The 5-minute weekly review that keeps my business on track.
+  Swipe through 👉 and save it for Friday.

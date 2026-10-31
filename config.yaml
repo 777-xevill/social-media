@@ -1,0 +1,82 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Social Autopilot — main settings
+#  Secrets (tokens, passwords) do NOT go here. They live in GitHub Secrets.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Public address of this repo's GitHub Pages site. Media files are served from
+# here so Instagram / Threads / Buffer can fetch them. Format:
+#   https://<github-username>.github.io/<repo-name>
+site_url: https://777-xevill.github.io/social-media
+
+timezone: Asia/Dhaka
+
+# Posts WITHOUT a `publish_at` date are queued and get the next free slot below.
+# Posts WITH a `publish_at` date go out at exactly that time.
+schedule:
+  slots:
+    - days: [mon, tue, wed, thu, fri, sat, sun]
+      times: ["10:00", "19:00"]
+
+# Platforms a post goes to when it doesn't list its own `platforms:`.
+default_platforms: [facebook, instagram, threads, youtube, tiktok, linkedin, x, pinterest]
+
+# Keeps your accounts alive when you stop adding content: if nothing has been
+# posted for `idle_hours`, the bot re-posts one of your `evergreen: true` posts
+# at the next slot (never the same one twice within `min_days_between_reposts`).
+evergreen:
+  enabled: true
+  idle_hours: 24
+  min_days_between_reposts: 45
+
+posting:
+  min_minutes_between_posts: 60   # per platform — stops bursts after downtime
+  max_attempts: 3                 # retries before a platform is marked failed
+  low_queue_warning: 5            # weekly health report warns below this many queued posts
+
+# Per-platform settings. A platform only posts when `enabled: true` AND its
+# credentials exist in GitHub Secrets — so you can connect them one at a time.
+#   via: direct  → the platform's own free API
+#   via: buffer  → Buffer's free API (3 channels on the free plan)
+platforms:
+  facebook:
+    enabled: true
+    max_hashtags: 3
+  instagram:
+    enabled: true
+    max_hashtags: 5
+  threads:
+    enabled: true
+    max_hashtags: 1
+  youtube:
+    enabled: true
+    via: direct            # switch to `buffer` while your Google API audit is pending
+    privacy: public        # public | unlisted | private
+    category_id: "22"      # 22 = People & Blogs, 27 = Education, 28 = Science & Tech
+    max_hashtags: 5
+  tiktok:
+    enabled: true
+    via: buffer            # TikTok's own API only allows private posts for personal apps
+    max_hashtags: 5
+  linkedin:
+    enabled: true
+    max_hashtags: 5
+  x:
+    enabled: true
+    via: buffer            # X's own API is paid-only since Feb 2026
+    max_hashtags: 2
+  pinterest:
+    enabled: true
+    via: direct
+    board_id: ""           # or set the PINTEREST_BOARD_ID secret
+    sandbox: false         # true while your Pinterest app only has Trial access
+    max_hashtags: 0
+  reddit:
+    enabled: false         # needs Reddit's manual API approval (since Nov 2025)
+    subreddit: ""          # e.g. u_yourname to post on your own profile
+    max_hashtags: 0
+  snapchat:
+    enabled: false         # no public posting API — sends you an email reminder instead
+    max_hashtags: 0
+
+meta:
+  graph_version: v24.0

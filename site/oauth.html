@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Connect Account</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <h1 id="heading">Almost done</h1>
+  <p id="lead">Copy this code and paste it into the terminal window that asked for it.</p>
+  <div class="card" id="box">
+    <span class="code" id="code">—</span>
+    <button id="copy" type="button">Copy code</button>
+  </div>
+</main>
+<script>
+  const q = new URLSearchParams(location.search);
+  const code = (q.get("code") || "").replace(/#_$/, "");
+  const err = q.get("error_description") || q.get("error");
+  const el = (id) => document.getElementById(id);
+  if (code) {
+    el("code").textContent = code;
+  } else {
+    el("heading").textContent = err ? "Connection was cancelled" : "No code here";
+    el("lead").textContent = err
+      ? "The platform said: " + err + ". Go back to the terminal and run the command again."
+      : "This page shows the sign-in code when a platform sends you back here.";
+    el("box").hidden = true;
+  }
+  el("copy").addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(code); el("copy").textContent = "Copied ✓"; }
+    catch { getSelection().selectAllChildren(el("code")); }
+  });
+</script>
+</body>
+</html>
