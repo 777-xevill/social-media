@@ -22,8 +22,6 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt pytest
       - name: Check posts and config
-        env:
-          BOT_SECRETS_JSON: ${{ toJSON(secrets) }}
         run: python -m bot validate
       - name: Show upcoming schedule
         run: python -m bot plan --days 21

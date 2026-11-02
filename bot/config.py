@@ -1,7 +1,6 @@
 """Settings (config.yaml) and secrets (env vars, GitHub Secrets JSON, local .env)."""
 from __future__ import annotations
 
-import json
 import os
 from pathlib import Path
 from urllib.parse import quote
@@ -77,19 +76,13 @@ class Config:
 
 
 class Secrets:
-    """Looks up a secret in os.environ, then BOT_SECRETS_JSON (Actions), then .env (local)."""
+    """Looks up a secret in os.environ (Actions), then .env (local)."""
 
     def __init__(self):
         self._values: dict[str, str] = {}
         if ENV_FILE.exists():
             self._values.update({k: v for k, v in dotenv_values(ENV_FILE).items() if v})
-        blob = os.environ.get("BOT_SECRETS_JSON")
-        if blob:
-            try:
-                self._values.update({k.upper(): v for k, v in json.loads(blob).items() if v})
-            except json.JSONDecodeError:
-                pass
-        self._values.update({k: v for k, v in os.environ.items() if v and k != "BOT_SECRETS_JSON"})
+        self._values.update({k: v for k, v in os.environ.items() if v})
 
     def get(self, key: str, default: str | None = None) -> str | None:
         return self._values.get(key) or default
