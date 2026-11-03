@@ -2,6 +2,7 @@
 
 The owner's personal social media manager. It must keep posting unattended for long periods
 with no manual steps. Current status and next steps are in [HANDOFF.md](HANDOFF.md).
+What to post and how to judge it is in [docs/GROWTH.md](docs/GROWTH.md). Read it before writing or scheduling content.
 
 ## Hard rules
 - **Zero budget.** Use only free tools, plans and APIs. Never suggest paid subscriptions or paid APIs.

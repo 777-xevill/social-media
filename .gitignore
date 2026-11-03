@@ -13,3 +13,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# YouTube transcripts: third-party text, kept local only (this repo is public)
+docs/transcripts/

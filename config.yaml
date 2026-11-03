@@ -15,7 +15,7 @@ timezone: Asia/Dhaka
 schedule:
   slots:
     - days: [mon, tue, wed, thu, fri, sat, sun]
-      times: ["10:00", "19:00"]
+      times: ["19:00", "23:00"]   # audience is US + UK. Winter: 19:00 = 13:00 London, 08:00 New York; 23:00 = 17:00 London, 12:00 New York
 
 # Platforms a post goes to when it doesn't list its own `platforms:`.
 default_platforms: [facebook, instagram, threads, youtube, tiktok, linkedin, x, pinterest]
@@ -51,7 +51,7 @@ platforms:
     enabled: true
     via: direct            # switch to `buffer` while your Google API audit is pending
     privacy: public        # public | unlisted | private
-    category_id: "22"      # 22 = People & Blogs, 27 = Education, 28 = Science & Tech
+    category_id: "28"      # 22 = People & Blogs, 27 = Education, 28 = Science & Tech
     max_hashtags: 5
   tiktok:
     enabled: true
