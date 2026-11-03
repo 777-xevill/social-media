@@ -1,6 +1,13 @@
 {
-  "last_tick": "2026-11-03T18:57:52+00:00",
-  "platform_last": {},
+  "last_tick": "2026-11-03T19:32:15+00:00",
+  "platform_last": {
+    "facebook": "2026-11-03T19:32:15+00:00",
+    "instagram": "2026-11-03T19:32:15+00:00",
+    "threads": "2026-11-03T19:32:15+00:00",
+    "tiktok": "2026-11-03T19:32:15+00:00",
+    "x": "2026-11-03T19:32:15+00:00",
+    "youtube": "2026-11-03T19:32:15+00:00"
+  },
   "posts": {
     "2026-11-03-01-intro": {
       "runs": [
@@ -59,6 +66,64 @@
           "due": "2026-11-06T17:00:00+00:00",
           "kind": "queue",
           "platforms": {}
+        }
+      ]
+    },
+    "2026-11-04-04-ai-audit": {
+      "runs": [
+        {
+          "created": "2026-11-03T19:32:15+00:00",
+          "done": true,
+          "due": "2026-11-03T19:30:00+00:00",
+          "kind": "scheduled",
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "id": "1656377532620800",
+              "status": "published",
+              "url": "https://www.facebook.com/reel/1656377532620800"
+            },
+            "instagram": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "id": "18094247582213124",
+              "status": "published",
+              "url": "https://www.instagram.com/reel/DfSo_prFeGj/"
+            },
+            "linkedin": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
+              "status": "skipped"
+            },
+            "pinterest": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "threads": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "id": "17873703420644394",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/DfSpEtszXWM"
+            },
+            "tiktok": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "id": "6aea371b5a7950e0fff39137",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "x": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "id": "6aea3726dfa67473393b7984",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-03T19:32:15+00:00",
+              "id": "QYFhoeYh3Pg",
+              "status": "published",
+              "url": "https://www.youtube.com/shorts/QYFhoeYh3Pg"
+            }
+          }
         }
       ]
     }
