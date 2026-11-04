@@ -1,5 +1,5 @@
 {
-  "last_tick": "2026-11-04T21:08:25+00:00",
+  "last_tick": "2026-11-04T21:13:29+00:00",
   "platform_last": {
     "facebook": "2026-11-04T18:57:05+00:00",
     "instagram": "2026-11-03T19:32:15+00:00",
@@ -214,6 +214,116 @@
               "url": "https://www.youtube.com/shorts/QYFhoeYh3Pg"
             }
           }
+        }
+      ]
+    },
+    "2026-11-05-10-cvo-01-late-reply": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-05T15:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-11-cvo-02-restaurant": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-06T15:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-12-cvo-03-salon": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-07T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-13-avr-01-angry-customers": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-07T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-14-cvo-04-bakery": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-08T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-15-t60-01-api": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-08T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-16-cvo-05-clothes": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-09T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-17-cvo-06-dentist": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-09T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-18-cvo-07-plumber": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-10T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-19-cvo-08-hotel": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-10T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-20-cvo-09-garage": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:13:29+00:00",
+          "due": "2026-11-11T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
         }
       ]
     }
