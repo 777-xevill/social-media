@@ -90,8 +90,6 @@ class Instagram(Facebook):
         reason = super().incompatible(r)
         if reason:
             return reason
-        if self.pcfg.get("images_only") and r.post.kind in ("video", "mixed"):
-            return "Instagram is set to images only (images_only in config.yaml), so no Reels or video"
         if any(not p.lower().endswith((".jpg", ".jpeg")) for p in r.post.images):
             return "Instagram only accepts JPEG images (.jpg)"
         if len(r.post.media) > 10:
@@ -128,7 +126,8 @@ class Instagram(Facebook):
         if len(media) == 1:
             params = {**self._item(media[0], carousel=False), "caption": r.text}
             if params.get("media_type") == "REELS":
-                params["share_to_feed"] = "true"
+                # false = the Reel lives in the Reels tab only, not on the main profile grid
+                params["share_to_feed"] = "true" if self.pcfg.get("reels_on_grid", True) else "false"
             cid = self._container(params)
         else:
             children = [self._container(self._item(m, carousel=True)) for m in media]

@@ -43,7 +43,7 @@ platforms:
     max_hashtags: 3
   instagram:
     enabled: true
-    images_only: true      # grid gets photos and carousels only. No Reels, no video (decided 2026-11-05)
+    reels_on_grid: false   # Reels post to the Reels tab only. The main grid gets photos and carousels (decided 2026-11-05)
     max_hashtags: 5
   threads:
     enabled: true
