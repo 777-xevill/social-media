@@ -1,11 +1,11 @@
 {
-  "last_tick": "2026-11-04T22:04:19+00:00",
+  "last_tick": "2026-11-04T22:09:22+00:00",
   "platform_last": {
     "facebook": "2026-11-04T21:53:48+00:00",
     "instagram": "2026-11-04T21:53:48+00:00",
-    "threads": "2026-11-04T18:57:05+00:00",
+    "threads": "2026-11-04T22:09:22+00:00",
     "tiktok": "2026-11-03T19:32:15+00:00",
-    "x": "2026-11-04T18:57:05+00:00",
+    "x": "2026-11-04T22:09:22+00:00",
     "youtube": "2026-11-03T19:32:15+00:00"
   },
   "posts": {
@@ -324,6 +324,30 @@
           "due": "2026-11-11T13:00:00+00:00",
           "kind": "scheduled",
           "platforms": {}
+        }
+      ]
+    },
+    "2026-11-05-31b-img-01-sock-vault-threads-x": {
+      "runs": [
+        {
+          "created": "2026-11-04T22:09:22+00:00",
+          "done": true,
+          "due": "2026-11-04T22:05:00+00:00",
+          "kind": "scheduled",
+          "platforms": {
+            "threads": {
+              "at": "2026-11-04T22:09:22+00:00",
+              "id": "18137346976708057",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/DfVfwBEn-7j"
+            },
+            "x": {
+              "at": "2026-11-04T22:09:22+00:00",
+              "id": "6aebad26dce07267a1969e6a",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            }
+          }
         }
       ]
     },
