@@ -1,5 +1,5 @@
 {
-  "last_tick": "2026-11-04T21:38:41+00:00",
+  "last_tick": "2026-11-04T21:43:44+00:00",
   "platform_last": {
     "facebook": "2026-11-04T18:57:05+00:00",
     "instagram": "2026-11-03T19:32:15+00:00",
@@ -322,6 +322,206 @@
         {
           "created": "2026-11-04T21:13:29+00:00",
           "due": "2026-11-11T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-06-31-img-01-sock-vault": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-04T21:50:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-06-32-img-02-strawberry-tokens": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-06T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-07-33-img-03-five-jobs": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-07T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-07-34-img-04-meet-xegency": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-07T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-08-35-img-05-museum-spreadsheet": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-08T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-08-36-img-06-three-words": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-08T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-09-37-img-07-captcha-books": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-09T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-09-38-img-08-three-prices": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-09T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-10-39-img-09-cobweb-phone": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-10T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-10-40-img-10-buy-now-receipt": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-10T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-11-41-img-11-images-we-didnt-post": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-11T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-11-42-img-12-call-back-tuesday": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-11T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-12-43-img-13-confident-parrot": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-12T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-12-44-img-14-prompt-anatomy": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-12T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-13-45-img-15-sisyphus-ctrl-v": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-13T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-13-46-img-16-xedineos-table": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-13T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-14-47-img-17-moth-1947": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-14T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-14-48-img-18-should-you-automate": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-14T19:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-15-49-img-19-robot-light-switch": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-15T11:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-15-50-img-20-empty-shelf": {
+      "runs": [
+        {
+          "created": "2026-11-04T21:43:44+00:00",
+          "due": "2026-11-15T19:00:00+00:00",
           "kind": "scheduled",
           "platforms": {}
         }
