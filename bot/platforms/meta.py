@@ -90,6 +90,8 @@ class Instagram(Facebook):
         reason = super().incompatible(r)
         if reason:
             return reason
+        if self.pcfg.get("images_only") and r.post.kind in ("video", "mixed"):
+            return "Instagram is set to images only (images_only in config.yaml), so no Reels or video"
         if any(not p.lower().endswith((".jpg", ".jpeg")) for p in r.post.images):
             return "Instagram only accepts JPEG images (.jpg)"
         if len(r.post.media) > 10:
