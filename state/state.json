@@ -1,11 +1,11 @@
 {
-  "last_tick": "2026-11-04T14:28:55+00:00",
+  "last_tick": "2026-11-04T18:57:05+00:00",
   "platform_last": {
-    "facebook": "2026-11-04T14:28:55+00:00",
+    "facebook": "2026-11-04T18:57:05+00:00",
     "instagram": "2026-11-03T19:32:15+00:00",
-    "threads": "2026-11-04T14:28:55+00:00",
+    "threads": "2026-11-04T18:57:05+00:00",
     "tiktok": "2026-11-03T19:32:15+00:00",
-    "x": "2026-11-04T14:28:55+00:00",
+    "x": "2026-11-04T18:57:05+00:00",
     "youtube": "2026-11-03T19:32:15+00:00"
   },
   "posts": {
@@ -68,9 +68,54 @@
       "runs": [
         {
           "created": "2026-11-03T18:57:52+00:00",
+          "done": true,
           "due": "2026-11-04T17:00:00+00:00",
           "kind": "queue",
-          "platforms": {}
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "id": "1430236773502952_122097827793514545",
+              "status": "published",
+              "url": "https://www.facebook.com/1430236773502952_122097827793514545"
+            },
+            "instagram": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "reason": "instagram doesn't take text-only posts",
+              "status": "skipped"
+            },
+            "linkedin": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
+              "status": "skipped"
+            },
+            "pinterest": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "threads": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "id": "18348264454252384",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/DfVJwCnnwHm"
+            },
+            "tiktok": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "reason": "tiktok doesn't take text-only posts",
+              "status": "skipped"
+            },
+            "x": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "id": "6aeb8016ed27fe14cf9ee5b6",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-04T18:57:05+00:00",
+              "reason": "youtube doesn't take text-only posts",
+              "status": "skipped"
+            }
+          }
         }
       ]
     },
