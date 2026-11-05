@@ -3,6 +3,7 @@ media: [reel3-non-negotiables.mp4]
 title: 4 non-negotiables for a website that brings in customers
 hashtags: [webdesign, smallbusiness, websitetips, homepagedesign]
 platforms: [instagram, facebook, tiktok, youtube]
+publish_at: 2026-11-08 21:00
 ---
 How many of these does your website have?
 

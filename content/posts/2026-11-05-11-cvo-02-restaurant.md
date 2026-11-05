@@ -2,7 +2,7 @@
 media: [cvo-02-restaurant.mp4]
 title: "Customer vs Owner, episode 2: where is my food?"
 hashtags: [restaurant, fooddelivery, relatable, smallbusiness]
-publish_at: 2026-11-06 21:00
+publish_at: 2026-11-07 21:00
 evergreen: false
 x: "The app said 20 minutes. Two hours later, the little car is driving in circles. Meanwhile, the kitchen has three apps and three tablets. Who do you blame? Customer vs Owner, episode 2."
 pinterest:

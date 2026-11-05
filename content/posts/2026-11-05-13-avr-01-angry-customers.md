@@ -2,7 +2,7 @@
 media: [avr-01-angry-customers.mp4]
 title: "AI vs Reality: we let AI answer 10 angry customers"
 hashtags: [ai, chatbot, customerservice, aitest]
-publish_at: 2026-11-07 23:00
+publish_at: 2026-11-10 21:00
 evergreen: false
 x: "We let a free AI answer 10 angry customers of a made-up pizza shop, with no rules. In 7 of 10 replies it offered a refund, credit, remake or replacement. Nobody told it that it could. One test, not a study."
 pinterest:
