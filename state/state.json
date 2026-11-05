@@ -1,11 +1,11 @@
 {
-  "last_tick": "2026-11-05T12:35:04+00:00",
+  "last_tick": "2026-11-05T12:40:06+00:00",
   "platform_last": {
     "facebook": "2026-11-05T12:29:48+00:00",
     "instagram": "2026-11-05T12:29:48+00:00",
-    "threads": "2026-11-04T22:09:22+00:00",
+    "threads": "2026-11-05T12:40:06+00:00",
     "tiktok": "2026-11-03T19:32:15+00:00",
-    "x": "2026-11-04T22:09:22+00:00",
+    "x": "2026-11-05T12:40:06+00:00",
     "youtube": "2026-11-03T19:32:15+00:00"
   },
   "posts": {
@@ -344,6 +344,30 @@
             "x": {
               "at": "2026-11-04T22:09:22+00:00",
               "id": "6aebad26dce07267a1969e6a",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            }
+          }
+        }
+      ]
+    },
+    "2026-11-05-32b-img-02-strawberry-tokens-threads-x": {
+      "runs": [
+        {
+          "created": "2026-11-05T12:40:06+00:00",
+          "done": true,
+          "due": "2026-11-05T12:39:00+00:00",
+          "kind": "scheduled",
+          "platforms": {
+            "threads": {
+              "at": "2026-11-05T12:40:06+00:00",
+              "id": "18152595265560414",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/DfXDZaLkSHA"
+            },
+            "x": {
+              "at": "2026-11-05T12:40:06+00:00",
+              "id": "6aec7939d52571d75dfc5c33",
               "status": "published",
               "url": "https://publish.buffer.com/"
             }
