@@ -1,5 +1,5 @@
 {
-  "last_tick": "2026-11-05T12:55:35+00:00",
+  "last_tick": "2026-11-05T13:00:37+00:00",
   "platform_last": {
     "facebook": "2026-11-05T12:29:48+00:00",
     "instagram": "2026-11-05T12:29:48+00:00",
@@ -125,7 +125,33 @@
           "created": "2026-11-03T18:57:52+00:00",
           "due": "2026-11-05T13:00:00+00:00",
           "kind": "queue",
-          "platforms": {}
+          "platforms": {
+            "instagram": {
+              "at": "2026-11-05T13:00:37+00:00",
+              "reason": "instagram doesn't take text-only posts",
+              "status": "skipped"
+            },
+            "linkedin": {
+              "at": "2026-11-05T13:00:37+00:00",
+              "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
+              "status": "skipped"
+            },
+            "pinterest": {
+              "at": "2026-11-05T13:00:37+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "tiktok": {
+              "at": "2026-11-05T13:00:37+00:00",
+              "reason": "tiktok doesn't take text-only posts",
+              "status": "skipped"
+            },
+            "youtube": {
+              "at": "2026-11-05T13:00:37+00:00",
+              "reason": "youtube doesn't take text-only posts",
+              "status": "skipped"
+            }
+          }
         }
       ]
     },
