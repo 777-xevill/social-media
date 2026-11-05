@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-13-confident-parrot.jpg]
 title: "Confidence is not accuracy."
 alt: "Scarlet macaw in a navy suit at a podium with microphones and camera flashes."

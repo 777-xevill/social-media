@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-05-museum-spreadsheet.jpg]
 title: "Every business has one spreadsheet nobody dares touch."
 alt: "Beige CRT computer on a marble pedestal, velvet ropes and a spotlight in a dark gallery, with a small brass-style exhibit label."

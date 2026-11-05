@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-06-three-words.jpg]
 title: "Three words people keep mixing up."
 alt: "Three matte clay objects in a stack (egg timer, speech bubble, little robot), each with one line of what it does."

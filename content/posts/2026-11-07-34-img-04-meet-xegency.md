@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-04-meet-xegency.jpg]
 title: "We make software do the boring part."
 alt: "The exact logo geometry as a heavy 3D object on a black mirror floor, cut by a red rim light."

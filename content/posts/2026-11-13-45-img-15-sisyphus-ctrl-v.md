@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-15-sisyphus-ctrl-v.jpg]
 title: "Sisyphus had a rock. You have Ctrl+V."
 alt: "House-sized black keycap pushed up a dark mountain by one tiny figure, red sunset rim light."

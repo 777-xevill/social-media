@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-10-buy-now-receipt.jpg]
 title: "What really happens when you tap Buy Now"
 alt: "Full red background, torn paper receipt with six numbered steps and 'Total time: usually seconds'."

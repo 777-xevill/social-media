@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-14-prompt-anatomy.jpg]
 title: "Same AI. Better brief."
 alt: "Bone background, red italic headline, the old prompt struck through, the better one in a black panel with mono labels."

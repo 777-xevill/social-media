@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-18-should-you-automate.jpg]
 title: "Should you automate it?"
 alt: "Editorial flowchart on warm paper: five black question blocks, a red path, one red 'Automate it.' at the end."

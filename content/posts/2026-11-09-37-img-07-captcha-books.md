@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-07-captcha-books.jpg]
 title: "You weren't just proving you're human."
 alt: "Warm macro of an old book page with a clean CAPTCHA box laid on top, holding two warped words."

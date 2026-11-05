@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-08-three-prices.jpg]
 title: "Which price is the real one?"
 alt: "White mug on a bone background with three kraft tags tied to the handle, labelled Website $18, Facebook $24, Menu $21."

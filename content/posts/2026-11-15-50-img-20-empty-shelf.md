@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-20-empty-shelf.jpg]
 title: "Our trophy shelf is empty."
 alt: "Dark walnut trophy cabinet, warm lights on bare shelves, blank brass plates."

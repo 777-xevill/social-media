@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-19-robot-light-switch.jpg]
 title: "Not every problem needs AI."
 alt: "Huge red robot arm, tiny white light switch, bare concrete room."

@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-16-xedineos-table.jpg]
 title: "Guests order from the table. The restaurant keeps the whole bill."
 alt: "A table tent with a real QR code on a walnut restaurant table, warm lights blurred behind."

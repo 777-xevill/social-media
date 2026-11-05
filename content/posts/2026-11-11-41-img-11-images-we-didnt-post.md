@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-11-images-we-didnt-post.jpg]
 title: "The AI images we didn't post."
 alt: "Contact sheet of genuine rejects from this batch, each stamped with why it failed."

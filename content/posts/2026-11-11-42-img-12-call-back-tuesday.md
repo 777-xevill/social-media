@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-12-call-back-tuesday.jpg]
 title: "Which Tuesday?"
 alt: "Macro of a sun-bleached sticky note on a monitor bezel, handwritten 'Call back Tuesday' (the AI wrote the handwriting)."

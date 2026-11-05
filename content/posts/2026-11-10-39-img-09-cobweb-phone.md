@@ -1,5 +1,4 @@
 ---
-platforms: [instagram, facebook]
 media: [img-09-cobweb-phone.jpg]
 title: "Silence looks like this."
 alt: "Overhead shot of a phone draped in dusty cobwebs on an old table, one chat bubble still lit."
