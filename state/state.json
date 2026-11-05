@@ -1,12 +1,12 @@
 {
-  "last_tick": "2026-11-05T13:00:37+00:00",
+  "last_tick": "2026-11-05T15:45:21+00:00",
   "platform_last": {
-    "facebook": "2026-11-05T12:29:48+00:00",
-    "instagram": "2026-11-05T12:29:48+00:00",
-    "threads": "2026-11-05T12:40:06+00:00",
-    "tiktok": "2026-11-03T19:32:15+00:00",
-    "x": "2026-11-05T12:40:06+00:00",
-    "youtube": "2026-11-03T19:32:15+00:00"
+    "facebook": "2026-11-05T15:45:21+00:00",
+    "instagram": "2026-11-05T15:45:21+00:00",
+    "threads": "2026-11-05T15:45:21+00:00",
+    "tiktok": "2026-11-05T15:45:21+00:00",
+    "x": "2026-11-05T15:45:21+00:00",
+    "youtube": "2026-11-05T15:45:21+00:00"
   },
   "posts": {
     "2026-11-03-01-intro": {
@@ -123,9 +123,16 @@
       "runs": [
         {
           "created": "2026-11-03T18:57:52+00:00",
+          "done": true,
           "due": "2026-11-05T13:00:00+00:00",
           "kind": "queue",
           "platforms": {
+            "facebook": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "id": "1430236773502952_122098594179514545",
+              "status": "published",
+              "url": "https://www.facebook.com/1430236773502952_122098594179514545"
+            },
             "instagram": {
               "at": "2026-11-05T13:00:37+00:00",
               "reason": "instagram doesn't take text-only posts",
@@ -141,10 +148,22 @@
               "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
               "status": "skipped"
             },
+            "threads": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "id": "18036777590667384",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/DfXYmbklHyw"
+            },
             "tiktok": {
               "at": "2026-11-05T13:00:37+00:00",
               "reason": "tiktok doesn't take text-only posts",
               "status": "skipped"
+            },
+            "x": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "id": "6aeca4a260a369bcd7758226",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
             },
             "youtube": {
               "at": "2026-11-05T13:00:37+00:00",
@@ -249,7 +268,36 @@
           "created": "2026-11-04T21:13:29+00:00",
           "due": "2026-11-05T15:00:00+00:00",
           "kind": "scheduled",
-          "platforms": {}
+          "platforms": {
+            "instagram": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "id": "18108076685629744",
+              "status": "published",
+              "url": "https://www.instagram.com/reel/DfXYo0NDjAS/"
+            },
+            "linkedin": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
+              "status": "skipped"
+            },
+            "pinterest": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "tiktok": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "id": "6aeca4d360a369bcd775923a",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-05T15:45:21+00:00",
+              "id": "igYbpoidtIU",
+              "status": "published",
+              "url": "https://www.youtube.com/shorts/igYbpoidtIU"
+            }
+          }
         }
       ]
     },
