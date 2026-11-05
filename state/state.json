@@ -1,12 +1,12 @@
 {
-  "last_tick": "2026-11-05T16:59:00+00:00",
+  "last_tick": "2026-11-05T17:04:02+00:00",
   "platform_last": {
     "facebook": "2026-11-05T16:48:08+00:00",
-    "instagram": "2026-11-05T15:45:21+00:00",
+    "instagram": "2026-11-05T17:04:02+00:00",
     "threads": "2026-11-05T16:48:08+00:00",
-    "tiktok": "2026-11-05T15:45:21+00:00",
+    "tiktok": "2026-11-05T17:04:02+00:00",
     "x": "2026-11-05T16:48:08+00:00",
-    "youtube": "2026-11-05T15:45:21+00:00"
+    "youtube": "2026-11-05T17:04:02+00:00"
   },
   "posts": {
     "2026-11-03-01-intro": {
@@ -180,7 +180,26 @@
           "created": "2026-11-03T18:57:52+00:00",
           "due": "2026-11-05T17:00:00+00:00",
           "kind": "queue",
-          "platforms": {}
+          "platforms": {
+            "instagram": {
+              "at": "2026-11-05T17:04:02+00:00",
+              "id": "18443521873195993",
+              "status": "published",
+              "url": "https://www.instagram.com/reel/DfXhmwaCQb5/"
+            },
+            "tiktok": {
+              "at": "2026-11-05T17:04:02+00:00",
+              "id": "6aecb72c60a369bcd77d3030",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-05T17:04:02+00:00",
+              "id": "rciVEOHmydQ",
+              "status": "published",
+              "url": "https://www.youtube.com/shorts/rciVEOHmydQ"
+            }
+          }
         }
       ]
     },
