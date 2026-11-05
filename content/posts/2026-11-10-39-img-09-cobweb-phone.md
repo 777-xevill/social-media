@@ -13,5 +13,3 @@ The shop wasn't being rude. Someone was busy.
 But customers can't see busy. They only see silence.
 
 What's the longest you've waited for a shop to reply?
-
-Image made with AI. Text added by us.

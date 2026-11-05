@@ -11,5 +11,3 @@ We're a new studio. No awards yet, and no made-up testimonials.
 What we have is work you can look at: real builds, demos labelled as demos, and experiments we show even when they fail.
 
 The shelf can wait.
-
-Image made with AI. Text added by us.

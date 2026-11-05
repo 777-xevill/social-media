@@ -13,5 +13,3 @@ The note is faded. The Tuesday has gone. The customer has probably moved on.
 Follow-ups get lost because they live in someone's head, or on a monitor. Even a shared sheet with a date column beats this. An automatic reminder beats that.
 
 How many of these are on your desk?
-
-Image made with AI. Text added by us.

@@ -9,8 +9,6 @@ x: |
   All you wanted was one sock.
 
   Then: an account, a password with a symbol in it, a code from your email.
-
-  Image made with AI. Text added by us.
 ---
 All you wanted was one sock.
 
@@ -19,5 +17,3 @@ Then the shop asked for an account, a password with a symbol in it, and a code f
 Every step before checkout is another chance to leave. It's why guest checkout exists.
 
 What's the silliest thing a website has made you sign up for?
-
-Image made with AI. Text added by us.

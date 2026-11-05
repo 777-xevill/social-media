@@ -15,5 +15,3 @@ A chatbot answers when asked, using what it's been given.
 An agent works toward a goal: finds the order, spots the delay, drafts a reply and asks a person before sending.
 
 Save this for the next time someone says "we should add AI."
-
-Image made with AI. Text added by us.

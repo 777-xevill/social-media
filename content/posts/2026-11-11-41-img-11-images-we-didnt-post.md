@@ -13,5 +13,3 @@ Here are four that missed: five name badges that came out as four, an "egg timer
 AI is fast and often wrong in small ways, so a person still has to look at every picture. We also set all the text ourselves, because AI lettering is unreliable.
 
 What's the strangest thing an AI has handed you?
-
-Image made with AI. Text added by us.

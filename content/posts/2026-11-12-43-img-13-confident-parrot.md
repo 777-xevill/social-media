@@ -13,5 +13,3 @@ OpenAI's 2025 paper "Why language models hallucinate" says part of the cause is 
 So use it. Just check anything that would cost you if it were wrong.
 
 What's the most confident nonsense AI has told you?
-
-Image made with AI. Text added by us.

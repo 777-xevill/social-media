@@ -15,5 +15,3 @@ Nobody lied. Someone updated one place and forgot the other two, and now it look
 The fix is boring: keep prices in one place and let everything else read from it.
 
 Example prices.
-
-Image made with AI. Text added by us.

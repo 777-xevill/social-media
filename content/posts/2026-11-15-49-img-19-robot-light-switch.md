@@ -13,5 +13,3 @@ If the steps never change, a simple rule is cheaper, faster and easier to fix. I
 Start with the problem. Pick the tool after.
 
 What's the most over-engineered fix you've seen?
-
-Image made with AI. Text added by us.

@@ -13,5 +13,3 @@ One formula in column Q holds up the whole company, and the person who understoo
 So it stays exactly where it is. Protected. Feared. Backed up as FINAL_v7(2).
 
 Tag the only person allowed to touch yours.
-
-Image made with AI. Text added by us.

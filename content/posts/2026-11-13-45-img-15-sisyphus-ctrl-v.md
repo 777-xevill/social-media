@@ -13,5 +13,3 @@ The modern version: copy the customer's details from the form into the sheet, in
 If you do it every week, it's worth asking whether it still needs you.
 
 What do you paste most?
-
-Image made with AI. Text added by us.
