@@ -3,7 +3,7 @@ media: [img-06-three-words.jpg]
 title: "Three words people keep mixing up."
 alt: "Three matte clay objects in a stack (egg timer, speech bubble, little robot), each with one line of what it does."
 hashtags: ["aiagents", "automation", "chatbots", "ai", "techexplained"]
-publish_at: 2026-11-09 01:00
+publish_at: 2026-11-07 18:00
 ---
 Automation, chatbot, AI agent. Same customer question, three different jobs.
 

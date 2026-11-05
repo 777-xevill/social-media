@@ -3,7 +3,7 @@ media: [img-10-buy-now-receipt.jpg]
 title: "What really happens when you tap Buy Now"
 alt: "Full red background, torn paper receipt with six numbered steps and 'Total time: usually seconds'."
 hashtags: ["techexplained", "ecommerce", "payments", "howitworks", "learntech"]
-publish_at: 2026-11-11 01:00
+publish_at: 2026-11-09 18:00
 ---
 One tap. Six handoffs.
 

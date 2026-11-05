@@ -3,7 +3,7 @@ media: [img-15-sisyphus-ctrl-v.jpg]
 title: "Sisyphus had a rock. You have Ctrl+V."
 alt: "House-sized black keycap pushed up a dark mountain by one tiny figure, red sunset rim light."
 hashtags: ["officehumor", "automation", "worklife", "productivity", "smallbusiness"]
-publish_at: 2026-11-13 17:00
+publish_at: 2026-11-12 12:00
 ---
 In the myth, the punishment is pushing a boulder uphill forever.
 

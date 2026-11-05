@@ -3,7 +3,7 @@ media: [img-13-confident-parrot.jpg]
 title: "Confidence is not accuracy."
 alt: "Scarlet macaw in a navy suit at a podium with microphones and camera flashes."
 hashtags: ["ai", "chatgpt", "hallucination", "aitips", "techexplained"]
-publish_at: 2026-11-12 17:00
+publish_at: 2026-11-11 12:00
 ---
 AI can be wrong in the same calm voice it uses when it's right.
 

@@ -3,7 +3,7 @@ media: [img-12-call-back-tuesday.jpg]
 title: "Which Tuesday?"
 alt: "Macro of a sun-bleached sticky note on a monitor bezel, handwritten 'Call back Tuesday' (the AI wrote the handwriting)."
 hashtags: ["sales", "followup", "smallbusiness", "crm", "businessowner"]
-publish_at: 2026-11-12 01:00
+publish_at: 2026-11-10 18:00
 ---
 "Call back Tuesday."
 

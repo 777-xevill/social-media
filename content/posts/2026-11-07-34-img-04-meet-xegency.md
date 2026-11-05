@@ -3,7 +3,7 @@ media: [img-04-meet-xegency.jpg]
 title: "We make software do the boring part."
 alt: "The exact logo geometry as a heavy 3D object on a black mirror floor, cut by a red rim light."
 hashtags: ["xegency", "softwarestudio", "aiautomation", "startup", "tech"]
-publish_at: 2026-11-08 01:00
+publish_at: 2026-11-06 18:00
 ---
 Hi. We're Xegency, an AI-native software studio in Dhaka.
 

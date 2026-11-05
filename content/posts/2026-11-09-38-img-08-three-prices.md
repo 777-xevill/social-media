@@ -3,7 +3,7 @@ media: [img-08-three-prices.jpg]
 title: "Which price is the real one?"
 alt: "White mug on a bone background with three kraft tags tied to the handle, labelled Website $18, Facebook $24, Menu $21."
 hashtags: ["smallbusiness", "ecommerce", "restaurantowner", "customerexperience", "businesstips"]
-publish_at: 2026-11-10 01:00
+publish_at: 2026-11-08 18:00
 ---
 The website says $18. Facebook says $24. The printed menu says $21.
 

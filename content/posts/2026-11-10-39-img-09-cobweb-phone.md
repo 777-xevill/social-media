@@ -3,7 +3,7 @@ media: [img-09-cobweb-phone.jpg]
 title: "Silence looks like this."
 alt: "Overhead shot of a phone draped in dusty cobwebs on an old table, one chat bubble still lit."
 hashtags: ["customerservice", "relatable", "smallbusiness", "onlineshopping", "whatsappbusiness"]
-publish_at: 2026-11-10 17:00
+publish_at: 2026-11-09 12:00
 ---
 They asked. They waited. They bought it somewhere else.
 

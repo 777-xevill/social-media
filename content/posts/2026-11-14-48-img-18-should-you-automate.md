@@ -3,7 +3,7 @@ media: [img-18-should-you-automate.jpg]
 title: "Should you automate it?"
 alt: "Editorial flowchart on warm paper: five black question blocks, a red path, one red 'Automate it.' at the end."
 hashtags: ["automation", "businesstips", "aiautomation", "productivity", "smallbusiness"]
-publish_at: 2026-11-15 01:00
+publish_at: 2026-11-13 18:00
 ---
 Not everything should be automated. Five questions decide it:
 

@@ -3,7 +3,7 @@ media: [img-05-museum-spreadsheet.jpg]
 title: "Every business has one spreadsheet nobody dares touch."
 alt: "Beige CRT computer on a marble pedestal, velvet ropes and a spotlight in a dark gallery, with a small brass-style exhibit label."
 hashtags: ["officelife", "excel", "spreadsheets", "worklife", "smallbusiness"]
-publish_at: 2026-11-08 17:00
+publish_at: 2026-11-07 12:00
 ---
 Nobody knows who built it.
 

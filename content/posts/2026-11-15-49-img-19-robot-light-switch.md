@@ -3,7 +3,7 @@ media: [img-19-robot-light-switch.jpg]
 title: "Not every problem needs AI."
 alt: "Huge red robot arm, tiny white light switch, bare concrete room."
 hashtags: ["ai", "automation", "founder", "businessstrategy", "smallbusiness"]
-publish_at: 2026-11-15 17:00
+publish_at: 2026-11-14 12:00
 ---
 An AI studio telling you not to use AI. Hear us out.
 

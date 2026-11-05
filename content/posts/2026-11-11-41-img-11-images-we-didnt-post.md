@@ -3,7 +3,7 @@ media: [img-11-images-we-didnt-post.jpg]
 title: "The AI images we didn't post."
 alt: "Contact sheet of genuine rejects from this batch, each stamped with why it failed."
 hashtags: ["aiart", "behindthescenes", "ai", "aivsreality", "contentcreation"]
-publish_at: 2026-11-11 17:00
+publish_at: 2026-11-10 12:00
 ---
 Making these 20 posts, the AI generated 44 images. We used 15.
 

@@ -3,7 +3,7 @@ media: [img-16-xedineos-table.jpg]
 title: "Guests order from the table. The restaurant keeps the whole bill."
 alt: "A table tent with a real QR code on a walnut restaurant table, warm lights blurred behind."
 hashtags: ["restauranttech", "qrordering", "restaurantowner", "dhaka", "xegency"]
-publish_at: 2026-11-14 01:00
+publish_at: 2026-11-12 18:00
 ---
 XEdineOS is a QR ordering platform we built for restaurants in Dhaka.
 
