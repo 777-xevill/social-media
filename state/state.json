@@ -1,12 +1,12 @@
 {
-  "last_tick": "2026-11-06T14:55:29+00:00",
+  "last_tick": "2026-11-06T15:00:31+00:00",
   "platform_last": {
-    "facebook": "2026-11-06T12:03:40+00:00",
-    "instagram": "2026-11-06T12:03:40+00:00",
+    "facebook": "2026-11-06T15:00:31+00:00",
+    "instagram": "2026-11-06T15:00:31+00:00",
     "threads": "2026-11-06T12:03:40+00:00",
-    "tiktok": "2026-11-05T17:04:02+00:00",
+    "tiktok": "2026-11-06T15:00:31+00:00",
     "x": "2026-11-06T12:03:40+00:00",
-    "youtube": "2026-11-05T17:04:02+00:00"
+    "youtube": "2026-11-06T15:00:31+00:00"
   },
   "posts": {
     "2026-11-03-01-intro": {
@@ -214,9 +214,35 @@
       "runs": [
         {
           "created": "2026-11-03T18:57:52+00:00",
+          "done": true,
           "due": "2026-11-06T15:00:00+00:00",
           "kind": "scheduled",
-          "platforms": {}
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-06T15:00:31+00:00",
+              "id": "1883367929492798",
+              "status": "published",
+              "url": "https://www.facebook.com/reel/1883367929492798"
+            },
+            "instagram": {
+              "at": "2026-11-06T15:00:31+00:00",
+              "id": "18376298572213108",
+              "status": "published",
+              "url": "https://www.instagram.com/reel/DfZ4RDWAPG_/"
+            },
+            "tiktok": {
+              "at": "2026-11-06T15:00:31+00:00",
+              "id": "6aedebbe263cb82eef0c595c",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-06T15:00:31+00:00",
+              "id": "VCNNBzctCGQ",
+              "status": "published",
+              "url": "https://www.youtube.com/shorts/VCNNBzctCGQ"
+            }
+          }
         }
       ]
     },
