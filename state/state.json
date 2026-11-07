@@ -1,11 +1,11 @@
 {
-  "last_tick": "2026-11-07T17:09:09+00:00",
+  "last_tick": "2026-11-07T17:14:11+00:00",
   "platform_last": {
-    "facebook": "2026-11-07T16:12:56+00:00",
-    "instagram": "2026-11-07T16:12:56+00:00",
-    "threads": "2026-11-07T16:12:56+00:00",
+    "facebook": "2026-11-07T17:14:11+00:00",
+    "instagram": "2026-11-07T17:14:11+00:00",
+    "threads": "2026-11-07T17:14:11+00:00",
     "tiktok": "2026-11-07T16:12:56+00:00",
-    "x": "2026-11-07T16:12:56+00:00",
+    "x": "2026-11-07T17:14:11+00:00",
     "youtube": "2026-11-07T16:12:56+00:00"
   },
   "posts": {
@@ -376,9 +376,22 @@
       "runs": [
         {
           "created": "2026-11-04T21:13:29+00:00",
+          "done": true,
           "due": "2026-11-07T15:00:00+00:00",
           "kind": "scheduled",
           "platforms": {
+            "facebook": {
+              "at": "2026-11-07T17:14:11+00:00",
+              "id": "1863245298046423",
+              "status": "published",
+              "url": "https://www.facebook.com/reel/1863245298046423"
+            },
+            "instagram": {
+              "at": "2026-11-07T17:14:11+00:00",
+              "id": "18074157809492128",
+              "status": "published",
+              "url": "https://www.instagram.com/reel/DfcsXuMFayG/"
+            },
             "linkedin": {
               "at": "2026-11-07T16:12:56+00:00",
               "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
@@ -389,9 +402,21 @@
               "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
               "status": "skipped"
             },
+            "threads": {
+              "at": "2026-11-07T17:14:11+00:00",
+              "id": "18110371211220426",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/Dfcsc2utp9z"
+            },
             "tiktok": {
               "at": "2026-11-07T16:12:56+00:00",
               "id": "6aef4e2d004e4879a767ff04",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "x": {
+              "at": "2026-11-07T17:14:11+00:00",
+              "id": "6aef5cb5562f2e6de96e4070",
               "status": "published",
               "url": "https://publish.buffer.com/"
             },
