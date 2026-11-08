@@ -1,5 +1,5 @@
 {
-  "last_tick": "2026-11-08T19:57:47+00:00",
+  "last_tick": "2026-11-08T20:02:52+00:00",
   "platform_last": {
     "facebook": "2026-11-08T16:05:39+00:00",
     "instagram": "2026-11-08T16:05:39+00:00",
@@ -978,6 +978,16 @@
         }
       ]
     },
+    "2026-11-09-51-xegency-8-departments-vertical": {
+      "runs": [
+        {
+          "created": "2026-11-08T20:02:52+00:00",
+          "due": "2026-11-09T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
     "2026-11-10-39-img-09-cobweb-phone": {
       "runs": [
         {
@@ -993,6 +1003,16 @@
         {
           "created": "2026-11-04T21:43:44+00:00",
           "due": "2026-11-09T12:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-10-52-xegency-8-departments-landscape": {
+      "runs": [
+        {
+          "created": "2026-11-08T20:02:52+00:00",
+          "due": "2026-11-10T17:00:00+00:00",
           "kind": "scheduled",
           "platforms": {}
         }
