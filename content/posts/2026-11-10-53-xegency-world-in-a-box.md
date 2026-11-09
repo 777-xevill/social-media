@@ -2,7 +2,7 @@
 media: [xegency-world-in-a-box-9x16.mp4]
 title: "A cube crashes into a city, and a whole city comes out of it"
 hashtags: [xegency, blender, 3danimation, aitools, brandfilm]
-publish_at: 2026-11-10 00:30
+publish_at: 2026-11-09 23:25
 evergreen: false
 x: "A cube crashes into a city. A whole city comes out of it. 3D film made for Xegency, built with AI-assisted tools. xegency.com"
 linkedin: |
