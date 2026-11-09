@@ -1,12 +1,12 @@
 {
-  "last_tick": "2026-11-09T15:17:38+00:00",
+  "last_tick": "2026-11-09T17:21:36+00:00",
   "platform_last": {
-    "facebook": "2026-11-09T15:00:43+00:00",
-    "instagram": "2026-11-09T15:00:43+00:00",
-    "threads": "2026-11-09T15:00:43+00:00",
-    "tiktok": "2026-11-09T15:00:43+00:00",
+    "facebook": "2026-11-09T17:21:36+00:00",
+    "instagram": "2026-11-09T17:21:36+00:00",
+    "threads": "2026-11-09T17:21:36+00:00",
+    "tiktok": "2026-11-09T17:21:36+00:00",
     "x": "2026-11-09T15:00:43+00:00",
-    "youtube": "2026-11-09T15:00:43+00:00"
+    "youtube": "2026-11-09T17:21:36+00:00"
   },
   "posts": {
     "2026-11-03-01-intro": {
@@ -1030,9 +1030,46 @@
       "runs": [
         {
           "created": "2026-11-08T20:02:52+00:00",
+          "done": true,
           "due": "2026-11-09T17:00:00+00:00",
           "kind": "scheduled",
-          "platforms": {}
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-09T17:21:36+00:00",
+              "id": "1874168790233799",
+              "status": "published",
+              "url": "https://www.facebook.com/reel/1874168790233799"
+            },
+            "instagram": {
+              "at": "2026-11-09T17:21:36+00:00",
+              "id": "17943428802363882",
+              "status": "published",
+              "url": "https://www.instagram.com/reel/Dfh21BEiIpT/"
+            },
+            "pinterest": {
+              "at": "2026-11-09T17:21:36+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "threads": {
+              "at": "2026-11-09T17:21:36+00:00",
+              "id": "17996702412115414",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/Dfh25_lxg5r"
+            },
+            "tiktok": {
+              "at": "2026-11-09T17:21:36+00:00",
+              "id": "6af2017a0b813b465069f954",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-09T17:21:36+00:00",
+              "id": "OTbm2l7yzac",
+              "status": "published",
+              "url": "https://www.youtube.com/shorts/OTbm2l7yzac"
+            }
+          }
         }
       ]
     },
@@ -1153,6 +1190,16 @@
         {
           "created": "2026-11-08T20:02:52+00:00",
           "due": "2026-11-10T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-10-53-xegency-world-in-a-box": {
+      "runs": [
+        {
+          "created": "2026-11-09T17:21:36+00:00",
+          "due": "2026-11-09T17:25:00+00:00",
           "kind": "scheduled",
           "platforms": {}
         }
