@@ -1,11 +1,11 @@
 {
-  "last_tick": "2026-11-11T01:19:43+00:00",
+  "last_tick": "2026-11-11T07:01:09+00:00",
   "platform_last": {
-    "facebook": "2026-11-10T15:02:02+00:00",
-    "instagram": "2026-11-10T15:02:02+00:00",
-    "threads": "2026-11-10T15:02:02+00:00",
+    "facebook": "2026-11-11T07:01:09+00:00",
+    "instagram": "2026-11-11T07:01:09+00:00",
+    "threads": "2026-11-11T07:01:09+00:00",
     "tiktok": "2026-11-10T15:02:02+00:00",
-    "x": "2026-11-10T15:02:02+00:00",
+    "x": "2026-11-11T07:01:09+00:00",
     "youtube": "2026-11-10T15:02:02+00:00"
   },
   "posts": {
@@ -1424,9 +1424,55 @@
       "runs": [
         {
           "created": "2026-11-04T21:43:44+00:00",
+          "done": true,
           "due": "2026-11-11T06:00:00+00:00",
           "kind": "scheduled",
-          "platforms": {}
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "id": "1430236773502952_122103636369514545",
+              "status": "published",
+              "url": "https://www.facebook.com/1430236773502952_122103636369514545"
+            },
+            "instagram": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "id": "18285823288295575",
+              "status": "published",
+              "url": "https://www.instagram.com/p/Dfl5Y4jFxRK/"
+            },
+            "linkedin": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
+              "status": "skipped"
+            },
+            "pinterest": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "threads": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "id": "18060114533566458",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/Dfl5Z6DlkR_"
+            },
+            "tiktok": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "reason": "tiktok doesn't take image posts",
+              "status": "skipped"
+            },
+            "x": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "id": "6af412cc54dc8a476481c43c",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-11T07:01:09+00:00",
+              "reason": "youtube doesn't take image posts",
+              "status": "skipped"
+            }
+          }
         }
       ]
     },
