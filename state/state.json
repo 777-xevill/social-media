@@ -1,12 +1,12 @@
 {
-  "last_tick": "2026-11-12T14:57:19+00:00",
+  "last_tick": "2026-11-12T15:02:23+00:00",
   "platform_last": {
-    "facebook": "2026-11-12T12:00:32+00:00",
-    "instagram": "2026-11-12T12:00:32+00:00",
-    "threads": "2026-11-12T12:00:32+00:00",
-    "tiktok": "2026-11-11T15:03:58+00:00",
-    "x": "2026-11-12T12:00:32+00:00",
-    "youtube": "2026-11-11T15:03:58+00:00"
+    "facebook": "2026-11-12T15:02:23+00:00",
+    "instagram": "2026-11-12T15:02:23+00:00",
+    "threads": "2026-11-12T15:02:23+00:00",
+    "tiktok": "2026-11-12T15:02:23+00:00",
+    "x": "2026-11-12T15:02:23+00:00",
+    "youtube": "2026-11-12T15:02:23+00:00"
   },
   "posts": {
     "2026-11-03-01-intro": {
@@ -634,9 +634,57 @@
       "runs": [
         {
           "created": "2026-11-04T21:13:29+00:00",
+          "done": true,
           "due": "2026-11-12T15:00:00+00:00",
           "kind": "scheduled",
-          "platforms": {}
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "id": "1129259739513330",
+              "status": "published",
+              "url": "https://www.facebook.com/reel/1129259739513330"
+            },
+            "instagram": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "id": "18139787365725806",
+              "status": "published",
+              "url": "https://www.instagram.com/reel/DfpVRHzkyj-/"
+            },
+            "linkedin": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
+              "status": "skipped"
+            },
+            "pinterest": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "threads": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "id": "17878403559635004",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/DfpVWahsC0G"
+            },
+            "tiktok": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "id": "6af5d55a31d8b91b5458e7e3",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "x": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "id": "6af5d565b44ae54108f0c40a",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-12T15:02:23+00:00",
+              "id": "GG69cjg_X3I",
+              "status": "published",
+              "url": "https://www.youtube.com/shorts/GG69cjg_X3I"
+            }
+          }
         }
       ]
     },
