@@ -1,6 +1,6 @@
 {
   "heartbeat": "2026-11-16T13:32:14+00:00",
-  "last_tick": "2026-11-17T18:33:15+00:00",
+  "last_tick": "2026-11-17T18:38:18+00:00",
   "platform_last": {
     "facebook": "2026-11-17T18:26:21+00:00",
     "instagram": "2026-11-17T18:26:21+00:00",
@@ -2202,6 +2202,306 @@
               "status": "skipped"
             }
           }
+        }
+      ]
+    },
+    "2026-11-19-61-grid-01-the-xegency-mark-rebuilt-in-3d": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-19T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-19-62-grid-02-xedineos-qr-ordering-for-restaurants": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-19T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-20-63-grid-03-the-ai-audit-five-days-one-plan": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-20T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-20-64-grid-04-the-shop-that-replies-eight-hours-late": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-20T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-21-65-grid-05-liquid-chrome": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-21T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-21-66-grid-06-xedineos-three-roles-three-screens": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-21T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-22-67-grid-07-the-best-ai-knows-when-to-stop": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-22T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-22-68-grid-08-how-a-business-runs-on-a-spreadsheet": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-22T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-23-69-grid-09-from-chaos-to-order": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-23T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-23-70-grid-10-alpha-fuel-a-store-that-proves-every-tub": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-23T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-24-71-grid-11-automate-the-repeat-keep-the-human": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-24T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-24-72-grid-12-create-an-account-to-buy-one-item": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-24T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-25-73-grid-13-quiet-by-design": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-25T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-25-74-grid-14-replydesk-an-ai-that-answers-your-whatsa": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-25T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-26-75-grid-15-four-inboxes-one-pipeline": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-26T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-26-76-grid-16-the-feedback-ladder": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-26T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-27-77-grid-17-systems-that-loop": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-27T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-27-78-grid-18-leadsmith-every-lead-scored-with-the-rea": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-27T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-28-79-grid-19-your-business-in-thirty-seconds": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-28T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-28-80-grid-20-what-happens-when-you-click-buy-now": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-28T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-29-81-grid-21-many-parts-one-whole": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-29T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-29-82-grid-22-invoiceiq-photograph-a-bill-skip-the-dat": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-29T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-30-83-grid-23-answers-from-your-documents-not-from-ima": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-30T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-11-30-84-grid-24-hundreds-of-messages-one-owner": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-11-30T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-12-01-85-grid-25-version-by-version": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-12-01T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-12-01-86-grid-26-stocksense-know-what-to-reorder": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-12-01T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-12-02-87-grid-27-every-ai-agent-needs-a-leash": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-12-02T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-12-02-88-grid-28-things-people-ask-an-ai-to-build": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-12-02T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-12-03-89-grid-29-slow-work-premium-finish": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-12-03T13:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
+        }
+      ]
+    },
+    "2026-12-03-90-grid-30-a-line-efficiency-workbook-for-a-garment": {
+      "runs": [
+        {
+          "created": "2026-11-17T18:38:18+00:00",
+          "due": "2026-12-03T17:00:00+00:00",
+          "kind": "scheduled",
+          "platforms": {}
         }
       ]
     }
