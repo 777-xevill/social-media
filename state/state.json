@@ -1,12 +1,12 @@
 {
   "heartbeat": "2026-11-16T13:32:14+00:00",
-  "last_tick": "2026-11-20T12:41:25+00:00",
+  "last_tick": "2026-11-20T16:02:04+00:00",
   "platform_last": {
-    "facebook": "2026-11-19T17:16:26+00:00",
-    "instagram": "2026-11-19T17:16:26+00:00",
-    "threads": "2026-11-19T17:16:26+00:00",
+    "facebook": "2026-11-20T16:02:04+00:00",
+    "instagram": "2026-11-20T16:02:04+00:00",
+    "threads": "2026-11-20T16:02:04+00:00",
     "tiktok": "2026-11-17T18:26:21+00:00",
-    "x": "2026-11-19T17:16:26+00:00",
+    "x": "2026-11-20T16:02:04+00:00",
     "youtube": "2026-11-17T18:26:21+00:00"
   },
   "posts": {
@@ -2321,9 +2321,55 @@
       "runs": [
         {
           "created": "2026-11-17T18:38:18+00:00",
+          "done": true,
           "due": "2026-11-20T13:00:00+00:00",
           "kind": "scheduled",
-          "platforms": {}
+          "platforms": {
+            "facebook": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "id": "1430236773502952_122110404249514545",
+              "status": "published",
+              "url": "https://www.facebook.com/1430236773502952_122110404249514545"
+            },
+            "instagram": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "id": "17926224291447324",
+              "status": "published",
+              "url": "https://www.instagram.com/p/Df-CcQAF-pj/"
+            },
+            "linkedin": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "reason": "not connected yet (missing LINKEDIN_ACCESS_TOKEN, LINKEDIN_PERSON_URN)",
+              "status": "skipped"
+            },
+            "pinterest": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "reason": "not connected yet (missing PINTEREST_APP_ID, PINTEREST_APP_SECRET, PINTEREST_REFRESH_TOKEN)",
+              "status": "skipped"
+            },
+            "threads": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "id": "17922136080466219",
+              "status": "published",
+              "url": "https://www.threads.com/@xegency/post/Df-Ceaulsh3"
+            },
+            "tiktok": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "reason": "tiktok doesn't take image posts",
+              "status": "skipped"
+            },
+            "x": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "id": "6b006f25825e970fbdf6ed14",
+              "status": "published",
+              "url": "https://publish.buffer.com/"
+            },
+            "youtube": {
+              "at": "2026-11-20T16:02:04+00:00",
+              "reason": "youtube doesn't take image posts",
+              "status": "skipped"
+            }
+          }
         }
       ]
     },
